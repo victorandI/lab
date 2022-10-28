@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-"# pythonProject13" 
-=======
-# new
->>>>>>> 8c615fcfd8b9ca04dacb286529cf7dc66f104154
-"# lab" 
-"# lab" 
-"# lab" 
+use version python 3.8.10
+
+install pipenv python: pip install pipenv
+
+from waitress import serve
+
+try "http://localhost:8/api/v1/hello-world-28"
